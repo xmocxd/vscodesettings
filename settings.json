@@ -1,0 +1,14 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "workbench.startupEditor": "none",
+    "vim.useCtrlKeys": false,
+    "vim.overrideCopy": false,
+    "window.confirmSaveUntitledWorkspace": false,
+    "editor.parameterHints.enabled": false,
+    "editor.matchBrackets": "never",
+    "debug.javascript.autoAttachFilter": "smart",
+    "editor.acceptSuggestionOnCommitCharacter": false
+}
