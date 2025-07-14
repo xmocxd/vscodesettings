@@ -14,7 +14,7 @@
     
     "editor.parameterHints.enabled": false,
     "editor.matchBrackets": "never",
-    "editor.acceptSuggestionOnCommitCharacter": false
+    "editor.acceptSuggestionOnCommitCharacter": false,
     "editor.stickyScroll.enabled": false,
     "editor.fontSize": 18,
     
