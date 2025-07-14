@@ -3,12 +3,21 @@
     "security.allowedUNCHosts": [
         "wsl.localhost"
     ],
-    "workbench.startupEditor": "none",
+    
     "vim.useCtrlKeys": false,
     "vim.overrideCopy": false,
+    "vim.useSystemClipboard": true,
+    
+    "debug.javascript.autoAttachFilter": "smart",
+    
     "window.confirmSaveUntitledWorkspace": false,
+    
     "editor.parameterHints.enabled": false,
     "editor.matchBrackets": "never",
-    "debug.javascript.autoAttachFilter": "smart",
     "editor.acceptSuggestionOnCommitCharacter": false
+    "editor.stickyScroll.enabled": false,
+    "editor.fontSize": 18,
+    
+    "workbench.colorTheme": "Default Dark+ Experimental",
+    "workbench.startupEditor": "none"
 }
