@@ -6,7 +6,7 @@
     
     "vim.useCtrlKeys": false,
     "vim.overrideCopy": false,
-    "vim.useSystemClipboard": true,
+    "vim.useSystemClipboard": false,
     
     "debug.javascript.autoAttachFilter": "smart",
     
@@ -24,5 +24,3 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "liveServer.settings.ignoreFiles": ["**"]
 }
-
-
