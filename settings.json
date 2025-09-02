@@ -16,7 +16,7 @@
     "editor.matchBrackets": "never",
     "editor.acceptSuggestionOnCommitCharacter": false,
     "editor.stickyScroll.enabled": false,
-    "editor.fontSize": 18,
+    "editor.fontSize": 16,
     
     "workbench.colorTheme": "Default Dark+ Experimental",
     "workbench.startupEditor": "none",
@@ -24,4 +24,5 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "liveServer.settings.ignoreFiles": ["**"]
 }
+
 
