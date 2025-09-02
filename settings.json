@@ -20,5 +20,8 @@
     
     "workbench.colorTheme": "Default Dark+ Experimental",
     "workbench.startupEditor": "none",
-    "workbench.editor.empty.hint": "hidden"
+    "workbench.editor.empty.hint": "hidden",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.ignoreFiles": ["**"]
 }
+
