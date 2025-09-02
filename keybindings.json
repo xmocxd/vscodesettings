@@ -11,5 +11,10 @@
     {
         "key": "ctrl+t",
         "command": "editor.action.reindentlines"
+    },
+    {
+        "key": "ctrl+t",
+        "command": "editor.action.formatSelection",
+        "when": "editorHasSelection"
     }
 ]
