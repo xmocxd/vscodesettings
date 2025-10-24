@@ -24,5 +24,9 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "liveServer.settings.ignoreFiles": ["**"],
     
-    "editor.lineNumbers": "relative"
+    "editor.lineNumbers": "relative",
+
+    "editor.hover.enabled": false
+
 }
+
