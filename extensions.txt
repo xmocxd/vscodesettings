@@ -11,6 +11,3 @@ rodrigovallades.es7-react-js-snippets
 techer.open-in-browser
 twxs.cmake
 vscodevim.vim
-
-
-for /f %i in (extensions.txt) do code --install-extension %i
