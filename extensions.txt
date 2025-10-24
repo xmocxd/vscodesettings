@@ -11,3 +11,4 @@ rodrigovallades.es7-react-js-snippets
 techer.open-in-browser
 twxs.cmake
 vscodevim.vim
+bradlc.vscode-tailwindcss
