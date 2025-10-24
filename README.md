@@ -8,6 +8,6 @@ Alternatively, use the keyboard shortcut Ctrl+K Ctrl+S (Windows/Linux) or Cmd+K 
 CTRL+SHIFT+P - settings JSON
 
 ## Install Exts
-
+(Windows)  
 for /f %i in (extensions.txt) do code --install-extension %i
 
