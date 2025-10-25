@@ -26,7 +26,17 @@
     
     "editor.lineNumbers": "relative",
 
-    "editor.hover.enabled": false
+    "editor.hover.enabled": false,
+    
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingComments": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingOvertype": "never",
+    "editor.autoClosingQuotes": "never"
 
 }
+
 
