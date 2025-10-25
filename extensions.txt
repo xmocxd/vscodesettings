@@ -12,3 +12,4 @@ techer.open-in-browser
 twxs.cmake
 vscodevim.vim
 bradlc.vscode-tailwindcss
+budparr.language-hugo-vscode
