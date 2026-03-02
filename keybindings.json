@@ -16,5 +16,14 @@
         "key": "ctrl+t",
         "command": "editor.action.formatSelection",
         "when": "editorHasSelection"
+    },
+    {
+        "key": "ctrl+shift+x",
+        "command": "-workbench.view.extensions",
+    },
+    {
+        "key": "ctrl+shift+x",
+        "command": "github.copilot.chat.completions.toggle",
+        "when": "github.copilot.activated && github.copilot.extensionUnification.activated"
     }
 ]
